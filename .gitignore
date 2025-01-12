@@ -1,0 +1,22 @@
+# Archivos binarios y de compilación
+bin/
+obj/
+.vs/
+# Configuraciones de usuario de Visual Studio
+*.user
+*.suo
+*.vspx
+*.vsp
+
+# Archivos de depuración
+*.log
+*.pdb
+
+# Archivos temporales
+*.tmp
+*.temp
+*.cache
+
+# Archivos generados por el sistema
+Thumbs.db
+Desktop.ini
